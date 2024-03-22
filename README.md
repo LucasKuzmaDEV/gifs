@@ -19,7 +19,7 @@ Antes de começar, certifique-se de ter instalado o seguinte em sua máquina:
   git clone https://github.com/LucasKuzmaDEV/gifs
 
 - Navegue até o diretório do projeto:
-  cd challenge
+  cd gifs
 
 - Instale as dependências do projeto:
   npm install
