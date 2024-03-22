@@ -15,7 +15,7 @@ Antes de começar, certifique-se de ter instalado o seguinte em sua máquina:
 
 ## Instalação:
 
-- Cloque o repositório para o seu ambiente local:
+- Clone o repositório para o seu ambiente local:
   git clone https://github.com/LucasKuzmaDEV/gifs
 
 - Navegue até o diretório do projeto:
